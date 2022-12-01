@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/camera.png</file>
+        <file>Image/auto.png</file>
+        <file>Image/load.png</file>
+        <file>Image/stant.png</file>
+        <file>Image/wait_load.png</file>
+        <file>Image/save.png</file>
+        <file>Image/continue.png</file>
+        <file>Image/stop.png</file>
+        <file>Image/stop1.png</file>
+    </qresource>
+</RCC>
